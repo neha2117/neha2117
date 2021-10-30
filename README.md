@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning DSA, React
-<!-- - 👯 I’m looking to collaborate on  -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: nehakarmakar88888.nk@gmail.com
